@@ -44,7 +44,7 @@ Admin --> yang menerima pemesanan serta mengelola aktifitas pesan memesan
 
 <h3>USE CASE:</h3>
 
-<img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/asset/Use%20Case2.png"/>
+<img width="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/Use%20Case2.drawio.png"/>
 
 <h3>ERD</h3>
 

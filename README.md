@@ -49,6 +49,23 @@ PinjeMotor Depok merupakan sebuah UMKM yang bergerak dibidang jasa sewa menyewa 
 
 <img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/asset/ClassDiagram.jpg"/>
 
+<h4> Sequence Diagram (Pelanggan) </h4>
+
+<img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/Seq%20Diagram.png"/>
+
+<h4> Sequence Diagram (Admin) </h4>
+
+<img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/seq%20diagram%20admin.png"/>
+
+<h4> Activity Diagram (Pelanggan) </h4>
+
+<img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/actvt%20diagram.png"/>
+
+<h4> Activity Diagram (PAdmin) </h4>
+
+<img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/actv%20diagram%20admin.png"/>
+
+
 figma link: https://www.figma.com/file/HTYZV6GcQlfZuJoV3icJdA/Wireframe-Pinjamotor-Tugas-APBO?type=design&node-id=0%3A1&mode=design&t=mp07VQN4FLiVjctx-1
 
 <h3> Wire Frame</h3>

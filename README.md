@@ -14,6 +14,11 @@ Repository ini dibuat dengan tujuan memenuhi tugas APBO A Semester Genap 2024
 
 PinjeMotor Depok merupakan sebuah UMKM yang bergerak dibidang jasa sewa menyewa kendaraan bermotor roda dua, bisni tersebut sudah berjalan selama lebih dari 5 tahun, namun selama 5 tahun tersebut dalam mengelola bisnisnya masih menggunakan cara yang bersifat tradisional
 
+# Aktor yang terlibat:
+
+Pelanggan --> Sebagai pelanggan yang melakukan request pemesanan peminjaman motor
+Admin --> yang menerima pemesanan serta mengelola aktifitas pesan memesan
+
 # Apa Kendala yang Di Hadapi? :interrobang:
 
 1. laporan keuangan

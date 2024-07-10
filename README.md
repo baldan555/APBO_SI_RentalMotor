@@ -36,7 +36,7 @@ Admin --> yang menerima pemesanan serta mengelola aktifitas pesan memesan
 2. fitur integrasi dengan platform pembayaran yang memungkinkan transaksi online dan pembayaran langsung
 3. fitur pelaporan yang dapat menyajikan data tentang kinerja usaha, tren pelanggan, dan analisis lainnya
 4. fitur untuk memantau inventaris motor secara real-time, termasuk detail tentang ketersediaan, kondisi, dan perawatan
-5. fitur notifikasi yang dapat memberi tahu Anda tentang reservasi baru, pengembalian motor, atau peringatan perawatan rutin
+5. fitur notifikasi yang dapat memberi tahu tentang reservasi baru, pengembalian motor, atau peringatan perawatan rutin
 6. fitur pemesanan online yang memungkinkan pelanggan untuk melihat ketersediaan motor, melakukan pemesanan, dan pembayaran secara langsung melalui platform
 7.  fitur manajemen reservasi dan penjadwalan yang memudahkan pengelolaan waktu dan pengaturan motor untuk penyewaan
 

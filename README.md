@@ -66,7 +66,7 @@ Admin --> yang menerima pemesanan serta mengelola aktifitas pesan memesan
 
 <img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/actvt%20diagram.png"/>
 
-<h4> Activity Diagram (PAdmin) </h4>
+<h4> Activity Diagram (Admin) </h4>
 
 <img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/actv%20diagram%20admin.png"/>
 

@@ -27,7 +27,7 @@ Admin --> yang menerima pemesanan serta mengelola aktifitas pesan memesan
 2. penyimpanan database penyewa
    menyimpan dan mengelola informasi tentang penyewa, termasuk data pribadi, riwayat pembayaran, kontak, dan detail penyewaan.
    
-3. Penjadwalan service (reminder)
+
 
    
 # Solusi serta solusi tambahan berdasarkan penawaran

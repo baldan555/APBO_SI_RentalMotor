@@ -30,7 +30,7 @@ Admin --> yang menerima pemesanan serta mengelola aktifitas pesan memesan
 3. Penjadwalan service (reminder)
 
    
-#Solusi serta solusi tambahan berdasarkan penawaran
+# Solusi serta solusi tambahan berdasarkan penawaran
 
 1. fitur manajemen pelanggan yang memungkinkan untuk menyimpan informasi pelanggan, riwayat penyewaan, dan preferensi
 2. fitur integrasi dengan platform pembayaran yang memungkinkan transaksi online dan pembayaran langsung

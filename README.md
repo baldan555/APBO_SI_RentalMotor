@@ -71,3 +71,6 @@ figma link: https://www.figma.com/file/HTYZV6GcQlfZuJoV3icJdA/Wireframe-Pinjamot
 <h3> Wire Frame</h3>
 <img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/asset/Screenshot%202024-04-23%20172813.png"/>
 
+<h3> MOCKUP </h3>
+<img width="700px" src="https://github.com/baldan555/APBO_SI_RentalMotor/blob/main/MocukUp.png"/>
+
